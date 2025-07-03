@@ -1,0 +1,326 @@
+%PDF-1.5
+%€‚ƒ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+xÚTKnä İ÷)8ªÅ	"e™¹AXD¥7³ÉõSØ`ne’¨eµ_}^½WÆÈAı·åîĞ=ÛõwÏ¸oíæåÉ©ç AÜÇí’{1VàÌ	Ğ:(S$„5øäî®ãÈâÕ§è£ağl8RòràbIyˆPV`CÇû„2DˆÉ"'B¶ø9cÇePÑ+v½tPÜëíË}<rÏ‹{^Üóâ/îyqÏ‹{¾¸çÅ=/îùâ'÷<¹ç_¹!¨WTÍêBL=‘»ß(bL>˜XŒsî}Í	©ˆ57s~•›8_¨mõ.VÙŸÏ‰JlÛ
+Ff¨ívC¶¹³Z_ËnªãÙ{à½Ì¸±÷şj#ü;.Ãü^Ñõu†ÙÁÏ3"øz¶%Š±ßİÑˆ>&©g"X?Wêª§áb‘z2Ç
+Û¿uï3Ê1s[Ec:'l¨œ
+Z¶ëë½³ƒ_ú·ÿº÷Á?3¨©8¦¥ÈS]Ãƒÿ£¢¹;:Şgş)cÚ*¥¨ãvpT4•Ãìã[c³ÖºH¦:¡}Lë›¦bÂ’pR{C)˜.{æÜûíÏV¢GÉÊ%(è&ûª|‹kÒÅÀ‡d‡/ºÆÜwt-\“®•ëcØgF
+endstream
+endobj
+6 0 obj
+491
+endobj
+12 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R]
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 12 0 R>>
+endobj
+14 0 obj
+<</S /GoTo /D [13 0 R /Fit]
+>>
+endobj
+17 0 obj
+<</S /GoTo /D [13 0 R /FitR 194 350 229 296]
+>>
+endobj
+19 0 obj
+<</S /GoTo /D [13 0 R /FitR 153 348 200 302]
+>>
+endobj
+21 0 obj
+<</S /GoTo /D [13 0 R /FitR 196 375 285 271]
+>>
+endobj
+23 0 obj
+<</S /GoTo /D [13 0 R /FitR 218 390 405 256]
+>>
+endobj
+25 0 obj
+<</S /GoTo /D [13 0 R /FitR 276 344 347 310]
+>>
+endobj
+27 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+28 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+29 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+30 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 27 0 R
+    /KicadFontI 28 0 R
+    /KicadFontB 29 0 R
+    /KicadFontBI 30 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [209.551 309.606 215.646 336.734]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = R"],
+["Footprint = R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal"],
+["Description = Resistor"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [169.413 313.986 187.753 332.354]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = LED"],
+["Footprint = LED_D5.0mm"],
+["Description = Light emitting diode"],
+["Sim.Pins = 1=K 2=A"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [218.906 302.548 262.984 343.792]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = SW1"],
+["Value = SW_DPDT_x2"],
+["Footprint = SW_SPST_Omron_B3F-40xx"],
+["Description = Single Pole Single Throw \\u0028SPST\\u0029 switch, separate symbol"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [265.11 289.653 358.512 356.687]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = BT1"],
+["Value = Battery 2032"],
+["Footprint = BatteryHolder_Keystone_1058_1x2032"],
+["Description = Single-cell battery"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [293.972 318.896 329.618 335.876]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = REF**"],
+["Value = KiCad-Logo2_5mm_SilkScreen"],
+["Footprint = KiCad-Logo2_5mm_SilkScreen"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+13 0 R
+]
+/Count 1
+>>
+endobj
+31 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20250610043540)
+/Creator (PCBNEW)
+/Title (LED_Torch)
+/Author ()
+/Subject ()
+>>
+endobj
+24 0 obj
+<<
+/Title (BT1)
+/Parent 16 0 R
+/Next 20 0 R
+/A 23 0 R
+>>
+endobj
+20 0 obj
+<<
+/Title (D1)
+/Parent 16 0 R
+/Next 18 0 R
+/Prev 24 0 R
+/A 19 0 R
+>>
+endobj
+18 0 obj
+<<
+/Title (R1)
+/Parent 16 0 R
+/Next 26 0 R
+/Prev 20 0 R
+/A 17 0 R
+>>
+endobj
+26 0 obj
+<<
+/Title (REF**)
+/Parent 16 0 R
+/Next 22 0 R
+/Prev 18 0 R
+/A 25 0 R
+>>
+endobj
+22 0 obj
+<<
+/Title (SW1)
+/Parent 16 0 R
+/Prev 26 0 R
+/A 21 0 R
+>>
+endobj
+16 0 obj
+<<
+/Title (Footprints)
+/Parent 15 0 R
+/Count -5
+/First 24 0 R
+/Last 22 0 R
+/A 14 0 R
+>>
+endobj
+15 0 obj
+<<
+/Title (B.Mask \(Page 8\))
+/Parent 32 0 R
+/Count -1
+/First 16 0 R
+/Last 16 0 R
+/A 14 0 R
+>>
+endobj
+32 0 obj
+<< /Type /Outlines
+   /Count 7
+   /First 15 0 R
+   /Last 15 0 R
+>>
+endobj
+33 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 32 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 34
+0000000000 65535 f 
+0000004032 00000 n 
+0000001673 00000 n 
+0000001786 00000 n 
+0000003353 00000 n 
+0000000015 00000 n 
+0000000580 00000 n 
+0000001807 00000 n 
+0000002110 00000 n 
+0000002413 00000 n 
+0000002759 00000 n 
+0000003071 00000 n 
+0000000599 00000 n 
+0000000649 00000 n 
+0000000853 00000 n 
+0000004737 00000 n 
+0000004633 00000 n 
+0000000900 00000 n 
+0000004387 00000 n 
+0000000964 00000 n 
+0000004302 00000 n 
+0000001028 00000 n 
+0000004560 00000 n 
+0000001092 00000 n 
+0000004229 00000 n 
+0000001156 00000 n 
+0000004472 00000 n 
+0000001220 00000 n 
+0000001327 00000 n 
+0000001442 00000 n 
+0000001554 00000 n 
+0000004092 00000 n 
+0000004848 00000 n 
+0000004931 00000 n 
+trailer
+<< /Size 34 /Root 33 0 R /Info 31 0 R >>
+startxref
+5072
+%%EOF
